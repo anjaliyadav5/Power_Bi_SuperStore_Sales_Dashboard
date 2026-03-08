@@ -29,6 +29,3 @@ The dashboard includes the following visualizations:
 - Technology category generates the highest revenue.
 - Monthly trends show fluctuations in both sales and profit.
  
-
-🔗 LinkedIn: https://www.linkedin.com/in/anjaliyyadav/  
-💻 GitHub: https://github.com/anjaliyadav5
